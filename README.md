@@ -1,0 +1,4 @@
+pluginafk
+=========
+
+An afk plugin
